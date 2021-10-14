@@ -1,0 +1,30 @@
+[MainWindow]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABj4AAAMqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 Height 900=897
+eDP-1 Width 1600=1598
+eDP-1 XPosition=1
+eDP-1 YPosition=2
+eDP1 XPosition=498
+eDP1 YPosition=222
+splitterSizes=424,212
+
+[Recent Files]
+File1[$e]=$HOME/Hey-blue-dark.zip
+File2[$e]=$HOME/Downloads/button_example.zip
+File3[$e]=$HOME/pCloudDrive/emacs20210131.zip
+Name1[$e]=Hey-blue-dark.zip
+Name2[$e]=button_example.zip
+Name3[$e]=emacs20210131.zip
+
+[Viewer]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABhwAAAMHAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 900=418
+eDP-1 Width 1600=393
+eDP-1 Window-Maximized 900x1600=true
+eDP-1 XPosition=36
+eDP-1 YPosition=31

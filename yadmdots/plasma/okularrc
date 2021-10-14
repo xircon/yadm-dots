@@ -1,0 +1,55 @@
+[Desktop Entry]
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[FileDialogSize]
+XWAYLAND0 Height 1600x900=665
+XWAYLAND0 Width 1600x900=930
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///data/stevef/Downloads/Assorted Books Collection - September 24 2021 Part-2/quitecommands.xml,file:///data/stevef/Downloads/Assorted Books Collection - September 24 2021 Part-2/quitecommands.xml
+Recent URLs[$e]=file:///data/stevef/Downloads/Assorted Books Collection - September 24 2021 Part-2/
+iconViewIconSize=43
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABkAAAAOEAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+XWAYLAND0 Height 1600x900=884
+XWAYLAND0 Width 1600x900=1584
+XWAYLAND0 XPosition 1600x900=8
+XWAYLAND0 YPosition 1600x900=8
+eDP-1 Height 1600x900=900
+eDP-1 Height 900=869
+eDP-1 Width 1600=1564
+eDP-1 Width 1600x900=1600
+eDP-1 XPosition=36
+eDP-1 XPosition 1600x900=0
+eDP-1 YPosition=31
+eDP-1 YPosition 1600x900=0
+eDP1 Window-Maximized 900x1600=true
+eDP1 XPosition=36
+eDP1 YPosition=31
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/programming/Dennis Ritchie & Brian W. Kernighan - C Programming Language (2nd Edition).pdf
+File10[$e]=$HOME/MEGA/test.pdf
+File2[$e]=$HOME/Downloads/C/C Programming For Beginners And Advanced - Programming In C - C Programming A Modern Approach {BooksHash}/C Programming For Beginners And Advanced - Programming In C_ C Programming A Modern Approach - C Programming Book For Beginners To Advanced.pdf
+File3[$e]=$HOME/Downloads/C/Learn C Programming A beginners guide to learning C programming the easy and disciplined way/9781789349917-LEARN_C_PROGRAMMING.pdf
+File4[$e]=$HOME/Downloads/C/Practical System Programming With C Pragmatic Example Applications In Linux And Unix Based Operating Systems/Practical System Programming With C Pragmatic Example Applications In Linux And Unix Based Operating Systems .pdf
+File5[$e]=$HOME/Downloads/00 Programming/Beginning C Object Oriented Programming 2nd Edition.pdf
+File6[$e]=$HOME/Downloads/00 Programming/Beginning Object Oriented Programming with C.pdf
+File7[$e]=$HOME/Downloads/00 Programming/C Quick Syntax Reference.pdf
+File8[$e]=$HOME/Downloads/00 Programming/Davis - C++ For Dummies, 7th Ed. - 2014.pdf
+File9[$e]=$HOME/Downloads/torrent/Programming Rust 1st Edition - Jim Blandy Jason Orendorff 1491927283 shailab/Programming Rust 1st Edition 1491927283.pdf
+Name1[$e]=Dennis Ritchie & Brian W. Kernighan - C Programming Language (2nd Edition).pdf
+Name10[$e]=test.pdf
+Name2[$e]=C Programming For Beginners And Advanced - Programming In C_ C Programming A Modern Approach - C Programming Book For Beginners To Advanced.pdf
+Name3[$e]=9781789349917-LEARN_C_PROGRAMMING.pdf
+Name4[$e]=Practical System Programming With C Pragmatic Example Applications In Linux And Unix Based Operating Systems .pdf
+Name5[$e]=Beginning C Object Oriented Programming 2nd Edition.pdf
+Name6[$e]=Beginning Object Oriented Programming with C.pdf
+Name7[$e]=C Quick Syntax Reference.pdf
+Name8[$e]=Davis - C++ For Dummies, 7th Ed. - 2014.pdf
+Name9[$e]=Programming Rust 1st Edition 1491927283.pdf

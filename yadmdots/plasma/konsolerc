@@ -1,0 +1,43 @@
+[Desktop Entry]
+DefaultProfile=Profile 2.profile
+
+[Favorite Profiles]
+Favorites=
+
+[FileDialogSize]
+XWAYLAND0 Height 1600x900=744
+XWAYLAND0 Width 1600x900=1057
+eDP-1 Height 1600x900=900
+eDP-1 Width 1600x900=930
+
+[KFileDialog Settings]
+Recent Files[$e]=1 - hWX6SD1.jpg,file:$HOME/wallpaper/dark/0129934.jpg,file:$HOME/wallpaper/dark/1 - hWX6SD1.jpg,file:$HOME/wallpaper/dark/text_wallpaper.png,file:$HOME/wallpaper/dark/Most Amazing Images HD 16 - Ij7ZVSw Computer Desktop Wallpaper.jpg,file:$HOME/wallpaper/dark/Most Amazing Images HD 12 - xYQG1I5 Computer Desktop Wallpaper.jpg,file:$HOME/wallpaper/dark/nasa.jpeg,file:$HOME/wallpaper/dark/particles___turbulence_by_zephyris-d93zqp1.png,file:$HOME/wallpaper/dark/Most Amazing Images HD 19 - 38f0RA6 Computer Desktop Wallpaper.jpg,file:$HOME/wallpaper/dark/grey3.jpg,file:$HOME/wallpaper/dark/m.png,file:$HOME/wallpaper/dark/004_nature.jpg,file:$HOME/wallpaper/dark/000001-tram.jpg
+Recent URLs[$e]=file:$HOME/wallpaper/dark/,file:$HOME/,file:$HOME/wallpaper/
+iconViewIconSize=128
+
+[KonsoleWindow]
+FocusFollowsMouse=true
+RemoveWindowTitleBarAndFrame=true
+ShowMenuBarByDefault=false
+ShowWindowTitleOnTitleBar=true
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABhQAAAN8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+XWAYLAND0 Height 1600x900=884
+XWAYLAND0 Width 1600x900=1584
+XWAYLAND0 XPosition 1600x900=8
+XWAYLAND0 YPosition 1600x900=8
+eDP-1 Height 1600x900=892
+eDP-1 Width 1600x900=1556
+eDP-1 XPosition 1600x900=40
+eDP-1 YPosition 1600x900=4
+
+[Notification Messages]
+CloseAllTabs=true
+
+[ThumbnailsSettings]
+ThumbnailAlt=true
+ThumbnailSize=352

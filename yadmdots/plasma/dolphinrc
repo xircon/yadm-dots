@@ -1,0 +1,105 @@
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADQAAACOvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACOgAAAEwA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAECAAAANL8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAABCAAAECAAAAAIA////AAACnAAAAjoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAwAAAAD/////AAAAAAAAAAA=
+eDP-1 Height 900=576
+eDP-1 Width 1600=1461
+eDP-1 Window-Maximized 1600x900=true
+eDP-1 XPosition=59
+eDP-1 XPosition 1600x900=350
+eDP-1 YPosition=130
+eDP-1 YPosition 1600x900=150
+eDP1 Height 900=500
+eDP1 Width 1600=750
+eDP1 XPosition=436
+eDP1 YPosition=237
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=Profile 2.profile
+
+[DetailsMode]
+FontWeight=50
+
+[FileDialogSize]
+XWAYLAND0 Height 1600x900=627
+XWAYLAND0 Width 1600x900=836
+
+[General]
+BrowseThroughArchives=true
+FilterBar=true
+ShowSelectionToggle=false
+SortingChoice=CaseInsensitiveSorting
+Version=201
+ViewPropsTimestamp=2020,11,14,17,47,53
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+XWAYLAND0 Height 1600x900=525
+XWAYLAND0 Width 1600x900=540
+eDP-1 Height 1600x900=555
+eDP-1 Height 900=586
+eDP-1 Width 1600=505
+eDP-1 Width 1600x900=578
+eDP1 Height 900=559
+eDP1 Width 1600=507
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADqAAADYvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAiAAADYgAAAFQA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAECAAAANL8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAABCAAAECAAAAAIA////AAAE7QAAA2IAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAwAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+XWAYLAND0 Height 1600x900=900
+XWAYLAND0 Width 1600x900=1600
+XWAYLAND0 Window-Maximized 1600x900=true
+XWAYLAND0 XPosition 1600x900=0
+XWAYLAND0 YPosition 1600x900=0
+eDP-1 Height 1599x899=599
+eDP-1 Height 1600x900=900
+eDP-1 Height 480=443
+eDP-1 Height 900=897
+eDP-1 Width 1599x899=984
+eDP-1 Width 1600=1598
+eDP-1 Width 1600x900=1564
+eDP-1 Width 640=977
+eDP-1 Window-Maximized 1600x900=true
+eDP-1 XPosition=1
+eDP-1 XPosition 1599x899=282
+eDP-1 XPosition 1600x900=36
+eDP-1 YPosition=2
+eDP-1 YPosition 1599x899=82
+eDP-1 YPosition 1600x900=0
+eDP1 Height 900=500
+eDP1 Width 1600=750
+eDP1 XPosition=443
+eDP1 YPosition=212
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlacesPanel]
+IconSize=32
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[SettingsDialog]
+eDP-1 Height 1600x900=595
+eDP-1 Height 900=614
+eDP-1 Width 1600=776
+eDP-1 Width 1600x900=791
+eDP1 Height 900=464
+eDP1 Width 1600=715
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[ViewPropertiesDialog]
+eDP-1 Height 900=378
+eDP-1 Width 1600=470
+eDP1 Height 900=300
+eDP1 Width 1600=440

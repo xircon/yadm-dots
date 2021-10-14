@@ -1,0 +1,15 @@
+[Common]
+ShadowColor=255,85,255
+ShadowSize=ShadowMedium
+
+[Windeco]
+DrawBorderOnMaximizedWindows=true
+DrawSizeGrip=true
+
+[Windeco Exception 0]
+BorderSize=3
+Enabled=true
+ExceptionPattern=.*
+ExceptionType=0
+HideTitleBar=true
+Mask=16

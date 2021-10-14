@@ -1,0 +1,10 @@
+[FileDialogSize]
+XWAYLAND0 Height 1600x900=825
+XWAYLAND0 Width 1600x900=930
+eDP-1 Height 1600x900=855
+eDP-1 Width 1600x900=930
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/rangercs.pdf,file:$HOME/vlang.html,file:$HOME/vlang.epub,file:$HOME/rangercs.epub
+Recent URLs[$e]=file:$HOME/,file:$HOME/Documents/
+iconViewIconSize=43

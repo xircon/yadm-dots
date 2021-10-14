@@ -1,0 +1,42 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=1.8 TiB Internal Drive (sda1)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=300.0 MiB Internal Drive (sdb1)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
+EverMounted=true
+Icon=drive-harddisk-root
+LastNameSeen=223.8 GiB Internal Drive (sdb2)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc]
+Icon=drive-removable-media-usb
+LastNameSeen=KOBOeReader
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=ventoy
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=VTOYEFI
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd]
+Icon=drive-removable-media-usb
+LastNameSeen=KOBOeReader
+LastSeenMounted=false
+
+[General]
+AutomountEnabled=true

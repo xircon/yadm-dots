@@ -1,0 +1,47 @@
+TIMING:
+  TAP_MILLISEC: 250
+  DOUBLE_TAP_MILLISEC: 150
+
+MAPPINGS:
+# Hold enter for left control
+#  - KEY: KEY_ENTER
+#    TAP: KEY_ENTER
+#    HOLD: KEY_LEFTCTRL
+
+# Tap = super+w
+  - KEY: KEY_LEFTALT
+    TAP: [KEY_LEFTMETA,KEY_W,]
+    HOLD: KEY_LEFTALT
+
+# Tap = super+t
+  - KEY: KEY_LEFTCTRL
+    TAP: [KEY_LEFTMETA,KEY_T,]
+    HOLD: KEY_LEFTCTRL
+
+# Tap = Escape
+  - KEY: KEY_RIGHTCTRL
+    TAP: [ KEY_LEFTMETA, KEY_E, ]
+    HOLD: KEY_RIGHTCTRL
+
+# Tap = Escape
+  - KEY: KEY_CAPSLOCK
+    TAP: KEY_ESC
+    HOLD: KEY_LEFTCTRL
+
+#  Tap is left/right bracket
+#  - KEY: KEY_LEFTSHIFT
+#    TAP: [ KEY_LEFTCTRL, KEY_SPACE, ]
+#    HOLD: KEY_LEFTSHIFT
+
+  - KEY: KEY_RIGHTSHIFT
+    TAP: [ KEY_LEFTALT, KEY_LEFT, ]
+    HOLD: KEY_RIGHTSHIFT
+
+# Tap super for rofi:
+#  - KEY: KEY_LEFTMETA
+#    TAP: [ KEY_LEFTMETA, KEY_D, ]
+#    HOLD: KEY_LEFTMETA
+
+  - KEY: KEY_MENU
+    TAP: KEY_HOME 
+    HOLD: KEY_HOME 

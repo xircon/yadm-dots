@@ -1,0 +1,225 @@
+[Desktop Entry]
+DefaultProfile=Profile 2.profile
+
+[External Scripts]
+firstUse=false
+
+[External Scripts][Google Selection]
+command=xdg-open "https://www.google.com/search?q=%s"
+errorMode=0
+filterMode=0
+inputMode=0
+name=Google Selection
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=false
+
+[External Scripts][Paste to Hastebin]
+command=a=$(cat); curl -X POST -s -d "$a" https://hastebin.com/documents | awk -F '"' '{print "https://hastebin.com/"$4}' | xargs xdg-open ;
+errorMode=0
+filterMode=0
+inputMode=2
+name=Paste to Hastebin
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=false
+
+[External Scripts][Quick Compile]
+command=g++ -o %b %f && ./%b
+errorMode=0
+filterMode=0
+inputMode=0
+name=Quick Compile
+outputMode=0
+saveMode=0
+shortcuts=
+showOutput=true
+
+[External Scripts][Sort Selection]
+command=sort
+errorMode=0
+filterMode=0
+inputMode=2
+name=Sort Selection
+outputMode=3
+saveMode=0
+shortcuts=
+showOutput=false
+
+[KFileDialog Settings]
+Recent Files[$e]=addbk.py,file:$HOME/scripts/dearpygui/addbk/addbk.py
+Recent URLs[$e]=file:$HOME/scripts/dearpygui/addbk/
+eDP-1 Height 900=600
+eDP-1 Width 1600=1066
+iconViewIconSize=43
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=10000
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO 8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Font=Hack,13,-1,5,50,0,0,0,0,0
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=false
+Auto Center Lines=0
+Auto Completion=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Bracket Match Preview=false
+Chars To Enclose Selection=
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=false
+Line Numbers=false
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map All=true
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[KatePart Settings]
+documents=/data/stevef/scripts/dearpygui/addbk/addbk.py
+
+[KatePart Settings][/data/stevef/scripts/dearpygui/addbk/addbk.py]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+URL=file:///data/stevef/scripts/dearpygui/addbk/addbk.py
+
+[Main Window]
+Desktop 1600 900=36,31,1564,869
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAABcwAAALcAAAABAAAAAQAAAABAAAAAvwAAAAEAAAAAAAAAAEAAAAeAEwAZQBmAHQAIABCAHUAdAB0AG8AbgAgAEIAYQByAwAAAAD/////AAAAAAAAAAAAAAABAAAAAQAAACAAUgBpAGcAaAB0ACAAQgB1AHQAdABvAG4AIABCAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAA6v/////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAAEj/////8AAAAAAAAAAAAAABgAZABlAGIAdQBnAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAMAAAABAAAAIgBCAG8AdAB0AG8AbQAgAEIAdQB0AHQAbwBuACAAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 900x1600=true
+eDP-1 XPosition=36
+eDP-1 YPosition=31
+
+[MainWindow_code]
+(1) Tool Views Order=org.kdevelop.ProjectsView,org.kdevelop.DocumentsView,org.kdevelop.ClassBrowserView,org.kdevelop.ScratchpadView,org.kdevelop.FileManagerView
+(2) Tool Views Order=org.kdevelop.ExternalScriptView
+(8) Tool Views Order=org.kdevelop.ContextBrowser,org.kdevelop.KonsoleView,org.kdevelop.ProblemReporterView
+State=AAAA/wAAAAD9AAAAAAAABcwAAALcAAAABAAAAAQAAAABAAAAAvwAAAAEAAAAAAAAAAEAAAAeAEwAZQBmAHQAIABCAHUAdAB0AG8AbgAgAEIAYQByAwAAAAD/////AAAAAAAAAAAAAAABAAAAAQAAACAAUgBpAGcAaAB0ACAAQgB1AHQAdABvAG4AIABCAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAQAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIABxAHUAaQBjAGsATwBwAGUAbgBUAG8AbwBsAEIAYQByAQAAA/D/////AAAAAAAAAAAAAAAsAEsARABlAHYAQwBvAGQAZQBiAHIAbwB3AHMAZQByAFQAbwBvAGwAQgBhAHIBAAAE1P////8AAAAAAAAAAAAAABgAZABlAGIAdQBnAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAAMAAAABAAAAIgBCAG8AdAB0AG8AbQAgAEIAdQB0AHQAbwBuACAAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+debugToolBarVisibility=false
+eDP-1 Window-Maximized 900x1600=true
+eDP-1 XPosition=36
+eDP-1 YPosition=31
+
+[Open File]
+Last Open File Directory=file:///home/xircon/scripts/dearpygui/addbk/
+
+[Recent Files]
+File1[$e]=/data/stevef/scripts/dearpygui/addbk/addbk.py
+Name1[$e]=addbk.py
+
+[Sessions]
+Active Session ID={542467a7-19d5-4d66-80c4-73bf629f5267}
+
+[UiSettings]
+ShowTextEditorStatusBar=false
+
+[User Interface]
+Main Windows Count=1
+
+[User Interface][Main Window 0][Area code]
+desired views=org.kdevelop.ClassBrowserView:1,org.kdevelop.ContextBrowser:8,org.kdevelop.DocumentsView:1,org.kdevelop.ExternalScriptView:2,org.kdevelop.FileManagerView:1,org.kdevelop.KonsoleView:8,org.kdevelop.OutputView:8,org.kdevelop.ProblemReporterView:8,org.kdevelop.ProjectsView:1,org.kdevelop.ScratchpadView:1,org.kdevelop.SnippetView:2
+id=code
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=code_9036836
+
+[User Interface][Main Window 0][Area debug]
+desired views=org.kdevelop.FileManagerView:1,org.kdevelop.KonsoleView:8,org.kdevelop.debugger.BreakpointsView:8,org.kdevelop.debugger.ConsoleView:8,org.kdevelop.debugger.StackView:8,org.kdevelop.debugger.VariablesView:1
+id=debug
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=
+
+[User Interface][Main Window 0][Area review]
+desired views=org.kdevelop.FileManagerView:1,org.kdevelop.PatchReview:8,org.kdevelop.ProjectsView:1
+id=review
+view on bottom=
+view on left=
+view on right=
+view on top=
+working set=

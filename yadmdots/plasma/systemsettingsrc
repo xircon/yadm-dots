@@ -1,0 +1,39 @@
+[DownloadDialog Settings]
+eDP-1 Height 900=550
+eDP-1 Width 1600=700
+eDP1 Height 900=550
+eDP1 Width 1600=700
+
+[KFileDialog Settings]
+Recent Files[$e]=m.png,file:$HOME/.local/bin/sky,file:$HOME/Downloads/Pictures/space-shuttle-icon-340529.png,file:$HOME/Downloads/Pictures/arctic.jpg,file:$HOME/wallpaper/dark/000001-tram.jpg,file:$HOME/wallpaper/dark/m.png
+Recent URLs[$e]=file:$HOME/wallpaper/dark/,file:$HOME/wallpaper/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Downloads/Pictures/,file:$HOME/Downloads/,file:$HOME/.local/bin/
+detailViewIconSize=0
+iconViewIconSize=68
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABhQAAANlAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1600x900=884
+eDP-1 Height 900=810
+eDP-1 Width 1600=1326
+eDP-1 Width 1600x900=1550
+eDP-1 Window-Maximized 1600x900=true
+eDP-1 Window-Maximized 900x1600=true
+eDP-1 XPosition=155
+eDP-1 XPosition 1600x900=0
+eDP-1 YPosition=57
+eDP-1 YPosition 1600x900=0
+eDP1 Height 900=712
+eDP1 Width 1600=1024
+eDP1 Window-Maximized 900x1600=true
+eDP1 XPosition=36
+eDP1 YPosition=31
+
+[Open-with settings]
+CompletionMode=1
+History=fusuma,fla,libinput-gestures start,cai
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=false

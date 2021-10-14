@@ -1,0 +1,43 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbYAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAvAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+eDP-1 Height 1600x900=560
+eDP-1 Width 1600x900=812
+
+[DownloadDialog Settings]
+eDP-1 Height 900=550
+eDP-1 Width 1600=700
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///data/stevef/wallpaper/MovingWallpaper/Moving-Wallpaper/City Sphere.wmv,file:$HOME/Downloads/Pictures/space-shuttle-icon-340529.png,file:///data/stevef/Pictures/Live Wallpaper/Cyberpunk-Tears-In-Rain-Live-Wallpaper-Free.mp4,file:///data/stevef/wallpaper/MovingWallpaper/Moving-Wallpaper/Form React.wmv,file:///data/stevef/wallpaper/MovingWallpaper/Moving-Wallpaper/S_T_A_L_K_E_R_Dreamscene_by_xBrokenLife.wmv
+Recent URLs[$e]=file:///data/stevef/wallpaper/MovingWallpaper/Moving-Wallpaper/,file:///data/stevef/Pictures/Live Wallpaper/,file:$HOME/Downloads/Pictures/,file:$HOME/
+iconViewIconSize=43
+
+[KPropertiesDialog]
+eDP-1 Height 900=586
+eDP-1 Width 1600=857
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:openra-cnc.desktop,1 services_applications:snapper-gui.desktop,1 shell_lite,2 services_applications:kcm_printer_manager.desktop,1 services_applications:blobwars.desktop,3 services_applications:hplip.desktop,1 services_applications:clementine.desktop,1 services_applications:Shoes.desktop,1 services_applications:Half-Life 2 Lost Coast.desktop,1 services_applications:org.kde.kinfocenter.desktop,1 services_applications:system-config-printer.desktop,2 services_applications:wine-Programs-GOG.com-Diablo-Diablo.desktop,2 services_applications:bluetooth.desktop,1 services_applications:Zoom.desktop,1 services_applications:org.kde.plasma-systemmonitor.desktop,1 services_applications:tuxedo-control-center.desktop,2 services_applications:Alacritty.desktop,1 services_applications:librewolf.desktop,1 services_applications:sublime_text.desktop,1 services_applications:fontinst.desktop
+
+[PlasmaViews][Panel 2]
+panelVisibility=0
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1600]
+thickness=50
+
+[PlasmaViews][Panel 2][Vertical900]
+thickness=36
+
+[ScreenConnectors]
+0=eDP-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js

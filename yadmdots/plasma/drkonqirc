@@ -1,0 +1,8 @@
+[General]
+eDP-1 Height 1600x900=459
+eDP-1 Width 1600x900=816
+eDP1 Height 900=465
+eDP1 Width 1600=805
+
+[SystemInformation]
+CompiledSources=false

@@ -1,0 +1,19 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config,spectacle_clipboard.upd:clipboard-settings-change
+
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+
+[GuiConfig]
+quitAfterSaveCopyExport=true
+window-position=422,237
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/joe.png,file:$HOME/Pictures/joe.png
+Recent URLs[$e]=file:$HOME/Pictures/
+iconViewIconSize=43
+
+[Save]
+lastSaveAsLocation=file:///home/xircon/Pictures/joe.png
+lastSaveLocation=file:///home/xircon/Pictures/Screenshot_20211009_110612.png

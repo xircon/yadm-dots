@@ -1,0 +1,40 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABgsAAAMxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+XWAYLAND0 Height 1600x900=876
+XWAYLAND0 Width 1600x900=782
+XWAYLAND0 XPosition 1600x900=806
+XWAYLAND0 YPosition 1600x900=12
+eDP-1 Height 1600x900=866
+eDP-1 Width 1600x900=1547
+eDP-1 XPosition 1600x900=49
+eDP-1 YPosition 1600x900=26
+
+[Print]
+PrintHeight=8.44
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/joe.png
+File2[$e]=$HOME/Pictures/2021-05-27_16-56.png
+File3[$e]=$HOME/Pictures/2021-06-04_08-26.png
+File4[$e]=$HOME/wallpaper/dark/Secluded-Dark-Woods-Wallpaper-1024x768.jpg
+File5[$e]=/usr/share/icons/Adwaita/48x48/status/display-brightness-symbolic.symbolic.png
+File6[$e]=$HOME/snapshot1.png
+Name1[$e]=joe.png
+Name2[$e]=2021-05-27_16-56.png
+Name3[$e]=2021-06-04_08-26.png
+Name4[$e]=Secluded-Dark-Woods-Wallpaper-1024x768.jpg
+Name5[$e]=display-brightness-symbolic.symbolic.png
+Name6[$e]=snapshot1.png
+
+[SideBar]
+IsVisible ViewMode=true
+SideBarSplitterSizes=258,1288

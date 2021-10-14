@@ -1,0 +1,42 @@
+[Filter #0]
+Applicability=0
+AutomaticName=true
+ConfigureShortcut=false
+ConfigureToolbar=false
+Enabled=true
+StopProcessingHere=true
+ToolbarName=<From>: noreply.invitations@trustpilotmail.com
+action-args-0=68
+action-name-0=transfer
+actions=1
+apply-on=check-mail,manual-filtering
+contentsA=noreply.invitations@trustpilotmail.com
+fieldA=From
+funcA=contains
+identifier=HRQJIJBvQW6NiSoU
+name=<From>: noreply.invitations@trustpilotmail.com
+operator=and
+rules=1
+
+[Filter #1]
+Applicability=0
+AutomaticName=true
+ConfigureShortcut=false
+ConfigureToolbar=false
+Enabled=true
+StopProcessingHere=true
+ToolbarName=<From>: no-reply@nectarcanvass.rn-partner.com
+action-args-0=43
+action-name-0=transfer
+actions=1
+apply-on=check-mail,manual-filtering
+contentsA=no-reply@nectarcanvass.rn-partner.com
+fieldA=From
+funcA=contains
+identifier=OkyNQ0sRSkmk1o7B
+name=<From>: no-reply@nectarcanvass.rn-partner.com
+operator=and
+rules=1
+
+[General]
+filters=2
