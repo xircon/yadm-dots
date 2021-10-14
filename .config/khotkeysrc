@@ -474,14 +474,14 @@ Type=ACTION_DATA_GROUP
 [Data_20]
 Comment=Comment
 Enabled=true
-Name=Konsole+Tmux
+Name=Alacritty here
 Type=SIMPLE_ACTION_DATA
 
 [Data_20Actions]
 ActionsCount=1
 
 [Data_20Actions0]
-CommandURL=konsole -e tmux
+CommandURL=alacritty
 Type=COMMAND_URL
 
 [Data_20Conditions]

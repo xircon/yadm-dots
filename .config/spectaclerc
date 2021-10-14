@@ -7,7 +7,7 @@ clipboardGroup=PostScreenshotCopyImage
 
 [GuiConfig]
 quitAfterSaveCopyExport=true
-window-position=424,260
+window-position=422,237
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/Pictures/joe.png,file:$HOME/Pictures/joe.png

@@ -45,7 +45,7 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
 {19ba5160-aebf-4651-af31-949fbe16a201}=none,none,mute
-{2f56e643-f29f-4c84-b7c6-487cedecef18}=Meta+X,none,Konsole+Tmux
+{2f56e643-f29f-4c84-b7c6-487cedecef18}=Meta+X,none,Alacritty here
 {3a0ccd2c-cd2f-4420-9afd-d024dd8c020f}=Meta+Num++,none,bopp
 {4ff16a82-8f6c-4fc0-9a54-62848153593e}=Meta+W,none,Firefox
 {5033c25c-c9d5-42a8-b3fe-b22467549e86}=Ctrl+Alt+D,none,dolphin
